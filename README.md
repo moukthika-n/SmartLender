@@ -17,8 +17,7 @@
 - [How to Run the Project](#how-to-run-the-project)
 - [Technology Stack](#technology-stack)
 - [Project Presentation](#project-presentation)
-- [Contact](#contact)
-
+  
 ---
 
 ## Project Overview
@@ -85,11 +84,4 @@ The final demo includes:
 ## Project Presentation
 
 For a complete project overview and demo:
-- [Project Presentation & Final Report](https://drive.google.com/drive/folders/1gMaOYjWd2b0zCjOJjAoEi5PL6ewVMmpP?usp=drive_link)
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out via the following:
-
-- **Fork & Contribute**: Fork the repository and create a pull request for any feature improvements or bug fixes.
-- **Email**: [nalla.moukthika@gmail.com](mailto:nalla.moukthika@gmail.com) for direct communication.
+- [Project Presentation & Final Report](https://github.com/moukthika-n/SmartLender/tree/main/ProjectDemo)
