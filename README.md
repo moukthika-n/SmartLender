@@ -1,9 +1,5 @@
 # Smart Lender: Loan Credibility Prediction System
 
-[![GitHub issues](https://img.shields.io/github/issues/moukthika-n/SmartLender)](https://github.com/moukthika-n/SmartLender/issues)
-[![GitHub forks](https://img.shields.io/github/forks/moukthika-n/SmartLender)](https://github.com/moukthika-n/SmartLender/network)
-[![GitHub stars](https://img.shields.io/github/stars/moukthika-n/SmartLender)](https://github.com/moukthika-n/SmartLender/stargazers)
-
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -17,7 +13,6 @@
 - [How to Run the Project](#how-to-run-the-project)
 - [Technology Stack](#technology-stack)
 - [Project Presentation](#project-presentation)
-  
 ---
 
 ## Project Overview
@@ -85,3 +80,8 @@ The final demo includes:
 
 For a complete project overview and demo:
 - [Project Presentation & Final Report](https://github.com/moukthika-n/SmartLender/tree/main/ProjectDemo)
+
+
+
+
+
